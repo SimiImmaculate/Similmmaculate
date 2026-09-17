@@ -66,29 +66,32 @@ Open to **fresher and entry-level opportunities**.
 
 ## 🚀 Featured Projects
 
-### 🤖 Comment Category Prediction
+### 🤖 [Comment Category Prediction](https://github.com/SimiImmaculate/comment-category-prediction)
 A multiclass text-classification project involving feature engineering, NLP, TF-IDF, classical machine learning models, LightGBM, and ensemble learning.
 
 **Focus:** NLP • Feature Engineering • Model Evaluation • Ensemble Learning
 
 ---
 
-### 📊  Pharmacy Inventory & Business Analysis
+### 📊 [Enhancing Pharmacy Efficiency and Customer Retention through Better Inventory and Business Management](https://github.com/SimiImmaculate/pharmacy-business-analytics)
 Business Data Management capstone project focused on analyzing sales and purchase data to understand inventory patterns, supplier dependency, lead-time variation, profitability, and business performance.
 
 **Focus:** Data Cleaning • Business Analytics • Statistical Analysis • Data Visualization
 
 ---
 
-### 🧠 LLM Analysis Quiz
+### 🧠 [LLM Analysis Quiz](https://github.com/SimiImmaculate/llm-analysis-quiz)
 A Python-based project focused on analytical and problem-solving concepts involving Large Language Models.
 
 ---
 
-### ⚙️ LLM Deployment Demo
-A practical deployment-oriented project involving a web application and API-based architecture.
+### ⚙️ [CAPTCHA Solver Demo](https://github.com/SimiImmaculate/captcha-solver-demo)
+A practical Python project demonstrating an automated CAPTCHA-solving workflow.
+
+**Focus:** Python • Automation • Web Interaction
 
 ---
+
 ## 🎓 Education
 
 **M.Sc. Mathematics**
