@@ -73,7 +73,7 @@ A multiclass text-classification project involving feature engineering, NLP, TF-
 
 ---
 
-### 📊 Enhancing Pharmacy Efficiency and Customer Retention through Better Inventory and Business Management
+### 📊  Pharmacy Inventory & Business Analysis
 Business Data Management capstone project focused on analyzing sales and purchase data to understand inventory patterns, supplier dependency, lead-time variation, profitability, and business performance.
 
 **Focus:** Data Cleaning • Business Analytics • Statistical Analysis • Data Visualization
