@@ -85,10 +85,10 @@ A Python-based project focused on analytical and problem-solving concepts involv
 
 ---
 
-### ⚙️ [CAPTCHA Solver Demo](https://github.com/SimiImmaculate/captcha-solver-demo)
-A practical Python project demonstrating an automated CAPTCHA-solving workflow.
+### ⚙️ [FastAPI GitHub Deployment Service](https://github.com/SimiImmaculate/captcha-solver-demo)
+A FastAPI-based service for automating GitHub repository creation, file updates, GitHub Pages setup, and evaluator notification.
 
-**Focus:** Python • Automation • Web Interaction
+**Focus:** FastAPI • Python • GitHub API • Automation • Deployment
 
 ---
 
