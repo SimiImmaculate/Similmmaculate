@@ -1,6 +1,6 @@
 # Hi, I'm Simi Immaculate 
 
-### M.Sc. Mathematics | Data Science | Machine Learning
+### M.Sc. Mathematics | Data Science & Machine Learning | Aspiring Data Scientist | Open to Entry-Level Opportunities
 
 I am a Mathematics postgraduate with a strong foundation in Data Science and Machine Learning, building practical solutions through data analysis, statistical thinking, and machine learning.
 
